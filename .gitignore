@@ -1,0 +1,53 @@
+# === General ===
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# === OS/Editor/IDE junk ===
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+.idea/
+.vscode/
+.Rproj.user/
+__pycache__/
+*.pyc
+
+# === Jupyter Notebook checkpoints ===
+.ipynb_checkpoints/
+
+# === Python virtual environments ===
+env/
+venv/
+.venv/
+
+# === MATLAB ===
+*.asv
+*.m~
+*.mat
+*.fig
+*.mex*
+*.mdl
+*.slx
+*.autosave
+
+# === R ===
+.Rhistory
+.RData
+.Ruserdata
+
+# === Project-specific ===
+study_documents/
+
+
+# === Temporary and archive files ===
+*.zip
+*.tar.gz
+*.rar
+*.7z
+*.bak
+*.old
+*.tmp
